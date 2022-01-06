@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Brqzen
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me Brqzen@gmail.com
