@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Brqzen
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me Brqzen#1193 on discord!
+Discord - Bruzen
